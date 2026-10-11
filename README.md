@@ -40,7 +40,10 @@ projet-compilation-analyseur-lexical-flex/
 ├── erreur.txt
 ├── plusieurs_etudiants.txt
 ├── README.md
-└── .gitignore
+├──notes.lexer.exe
+├──lex.yy.c
+├──RapportFinal.docx
+└── rapport_CSV.csv
 ```
 
 Les fichiers de test permettent de vérifier le comportement de l'analyseur. D'autres fichiers, comme le rapport du projet, peuvent être ajoutés au dépôt.
